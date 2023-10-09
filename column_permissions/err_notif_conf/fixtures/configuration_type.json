@@ -1,0 +1,26 @@
+[
+{
+  "model": "err_notif_conf.configurationtype",
+  "pk": "04bf36e7-1288-4ea8-85fa-21b9314b47c7",
+  "fields": {
+    "name": "Second Configuration",
+    "code_name": "ScCnf",
+    "description": "Second configuration",
+    "status": "1c307544-aa87-424f-9b3c-984100383aea",
+    "created_at": "2022-05-09T07:59:47.446Z",
+    "last_update": "2022-05-09T07:59:47.592Z"
+  }
+},
+{
+  "model": "err_notif_conf.configurationtype",
+  "pk": "50d84b79-2264-4e15-b23e-108cc78a53d2",
+  "fields": {
+    "name": "Main Configuration",
+    "code_name": "MnCnf",
+    "description": "main configuration",
+    "status": "1c307544-aa87-424f-9b3c-984100383aea",
+    "created_at": "2022-05-09T07:59:47.446Z",
+    "last_update": "2022-05-09T07:59:47.592Z"
+  }
+}
+]

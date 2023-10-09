@@ -1,0 +1,44 @@
+[
+{
+  "model": "err_notif_conf.notification",
+  "pk": "08914822-1a2c-450d-8a6e-893320304ab0",
+  "fields": {
+    "type": "c7266512-eba6-4c4d-adeb-c1c247782155",
+    "name": "New DW Artwork Activation Notification",
+    "code_name": "NDAAN",
+    "description": "this notification will be sent from DW entity to another DW user (Talent or Specialist) when he activate his/her profile , or add new dubbing artwork after activation",
+    "message_text": "Please be informed that a new dubbing artwork has been added, and you could be involve in it. Please check the information below.",
+    "created_at": "2022-05-09T07:59:47.446Z",
+    "last_update": "2022-05-09T07:59:47.592Z",
+    "status": "1c307544-aa87-424f-9b3c-984100383aea"
+  }
+},
+{
+  "model": "err_notif_conf.notification",
+  "pk": "2fefeec7-2d7e-4b15-9607-699afd584b19",
+  "fields": {
+    "type": "c7266512-eba6-4c4d-adeb-c1c247782155",
+    "name": "New DW Talentwork Activation Notification",
+    "code_name": "NDTAN",
+    "description": "this notification will be sent from DW talent to DW entity when the talent activate his/her profile , or add new talent work after activation",
+    "message_text": "Please be informed that a new talent work has been added, and the talent claims that you are involve in it. Please check the information below.",
+    "created_at": "2022-05-09T07:59:47.446Z",
+    "last_update": "2022-05-09T07:59:47.592Z",
+    "status": "1c307544-aa87-424f-9b3c-984100383aea"
+  }
+},
+{
+  "model": "err_notif_conf.notification",
+  "pk": "7a950b41-a525-4a72-9243-f281dfc5af71",
+  "fields": {
+    "type": "c7266512-eba6-4c4d-adeb-c1c247782155",
+    "name": "Modify DW Artwork Data Notification",
+    "code_name": "MDADN",
+    "description": "this notification will be sent from DW entity to another DW user (Talent or Specialist who was envolved in this work or new active profiles who could be envolved in this work after this modification) when he modify one of his dubbing artwork.",
+    "message_text": "Please be informed that a dubbing artwork, which one of your works is related to, has been modified. Please check the information below.",
+    "created_at": "2022-05-09T07:59:47.446Z",
+    "last_update": "2022-05-09T07:59:47.592Z",
+    "status": "1c307544-aa87-424f-9b3c-984100383aea"
+  }
+}
+]

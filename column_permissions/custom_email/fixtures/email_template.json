@@ -1,0 +1,93 @@
+[
+{
+  "model": "custom_email.emailtemplate",
+  "pk": "3f35ed3a-c987-4022-bcc5-f2df20fcea36",
+  "fields": {
+    "template_key": "CtRP",
+    "subject": "Password Reset for PediaHome Account",
+    "body_1": "We sent you the reset password token",
+    "body_2": "Please copy the token and send it with the new password using this url",
+    "body_3": "",
+    "from_email": "pediahome@pediahome.com",
+    "description": "This email will be sent when user forget his/her password and ask to reset the password"
+  }
+},
+{
+  "model": "custom_email.emailtemplate",
+  "pk": "569e1a23-eee4-488f-8143-0e9d498805c0",
+  "fields": {
+    "template_key": "CtDEPR",
+    "subject": "Dubbiwood Entity Profile Rejection",
+    "body_1": "We are Pedaihome team, We are sorry to inform you that your profile is rejected.",
+    "body_2": "We can't give you access as Dubbiwood Entity",
+    "body_3": "Please correct your data and try again",
+    "from_email": "pediahome@pediahome.com",
+    "description": "This email will be sent when Dubbiwood supeData Checker reject the user Dubbiwood Entity Profile, CtDEPR: Create dubbiwood Entity Profile Rejected"
+  }
+},
+{
+  "model": "custom_email.emailtemplate",
+  "pk": "a85259af-1948-40e4-9ad6-7aec5816b10d",
+  "fields": {
+    "template_key": "CtPEABE",
+    "subject": "PediaHome Account Production Entity",
+    "body_1": "We are Pedaihome team, We created a PediaHome account for you.",
+    "body_2": "You can login using your email and the sending password",
+    "body_3": "",
+    "from_email": "pediahome@pediahome.com",
+    "description": "This email will be sent when an employee create new pediahome account for new user, CtPEABE: Create Production Entity Account By Employee"
+  }
+},
+{
+  "model": "custom_email.emailtemplate",
+  "pk": "b6e96e81-ee88-4d11-9562-a8f60961f87d",
+  "fields": {
+    "template_key": "CtDSABE",
+    "subject": "PediaHome Account DubbiWood Specialist",
+    "body_1": "We are Pedaihome team, We created a PediaHome account for you.",
+    "body_2": "You can login using your email and the sending password",
+    "body_3": "",
+    "from_email": "pediahome@pediahome.com",
+    "description": "This email will be sent when an employee create new pediahome account for new user, CtDSABE: Create DubbiWood Specialist Account By Employee"
+  }
+},
+{
+  "model": "custom_email.emailtemplate",
+  "pk": "baedfc32-fe20-4a2a-abb7-6be8e477faf6",
+  "fields": {
+    "template_key": "CtDEPAS",
+    "subject": "Dubbiwood Entity Profile Approved",
+    "body_1": "We are Pedaihome team, We are glade to inform you that your profile is approved successfully",
+    "body_2": "You can login using your email and the sending password",
+    "body_3": "",
+    "from_email": "pediahome@pediahome.com",
+    "description": "This email will be sent when Dubbiwood supervisor approve the user Dubbiwood Entity Profile, CtDEPAS: Create dubbiwood Entity Profile Approved Subervisor"
+  }
+},
+{
+  "model": "custom_email.emailtemplate",
+  "pk": "c97fbe33-2aa5-48db-a819-dcb8d7129fd8",
+  "fields": {
+    "template_key": "CtDTABE",
+    "subject": "PediaHome Account DobbiWood Talent",
+    "body_1": "We are Pedaihome team, We created a PediaHome account for you.",
+    "body_2": "You can login using your email and the sending password",
+    "body_3": "",
+    "from_email": "pediahome@pediahome.com",
+    "description": "This email will be sent when an employee create new pediahome account for new user, CtDTABE: Create DobbiWood Talent Account By Employee"
+  }
+},
+{
+  "model": "custom_email.emailtemplate",
+  "pk": "f2175250-b29b-40c0-8dd5-b09ddd31e009",
+  "fields": {
+    "template_key": "CtDEABE",
+    "subject": "PediaHome Account Production Entity",
+    "body_1": "We are Pedaihome team, We created a PediaHome account for you.",
+    "body_2": "You can login using your email and the sending password",
+    "body_3": "",
+    "from_email": "pediahome@pediahome.com",
+    "description": "This email will be sent when an employee create new pediahome account for new user, CtDEABE: Create Dubbiwood Entity Account By Employee"
+  }
+}
+]

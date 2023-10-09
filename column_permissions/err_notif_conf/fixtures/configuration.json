@@ -1,0 +1,62 @@
+[
+{
+  "model": "err_notif_conf.configuration",
+  "pk": "00000000-0000-0000-0000-000000000004",
+  "fields": {
+    "type": "50d84b79-2264-4e15-b23e-108cc78a53d2",
+    "name": "DUBBIWOOD_PRO_STANDARD_WORKS_TALENT",
+    "default_value_name": "DUBBIWOOD_PRO_STANDARD_WORKS_TALENT",
+    "code_name": "DwPSWT",
+    "description": "DUBBIWOOD_PRO_STANDARD_WORKS_TALENT",
+    "value": "100",
+    "created_at": "2022-05-09T07:59:47.446Z",
+    "last_update": "2022-05-09T07:59:47.592Z",
+    "status": "1c307544-aa87-424f-9b3c-984100383aea"
+  }
+},
+{
+  "model": "err_notif_conf.configuration",
+  "pk": "248afe32-d6a8-4454-8807-24249ddff595",
+  "fields": {
+    "type": "50d84b79-2264-4e15-b23e-108cc78a53d2",
+    "name": "DJANGO_REST_MULTITOKENAUTH_RESET_TOKEN_EXPIRY_TIME",
+    "default_value_name": "DJANGO_REST_MULTITOKENAUTH_RESET_TOKEN_EXPIRY_TIME",
+    "code_name": "RePTETm",
+    "description": "DJANGO_REST_MULTITOKENAUTH_RESET_TOKEN_EXPIRY_TIME",
+    "value": "3",
+    "created_at": "2022-05-09T07:59:47.446Z",
+    "last_update": "2022-05-09T07:59:47.592Z",
+    "status": "1c307544-aa87-424f-9b3c-984100383aea"
+  }
+},
+{
+  "model": "err_notif_conf.configuration",
+  "pk": "c462f6fb-8289-4794-8d58-57d5dd81ce76",
+  "fields": {
+    "type": "50d84b79-2264-4e15-b23e-108cc78a53d2",
+    "name": "DUBBIWOOD_PRO_STANDARD_HOURS_ENTITY",
+    "default_value_name": "DUBBIWOOD_PRO_STANDARD_HOURS_ENTITY",
+    "code_name": "DwPSHE",
+    "description": "DUBBIWOOD_PRO_STANDARD_HOURS_ENTITY",
+    "value": "100",
+    "created_at": "2022-05-09T07:59:47.446Z",
+    "last_update": "2022-05-09T07:59:47.592Z",
+    "status": "1c307544-aa87-424f-9b3c-984100383aea"
+  }
+},
+{
+  "model": "err_notif_conf.configuration",
+  "pk": "f14082c5-62d8-4988-bbab-0d89350878be",
+  "fields": {
+    "type": "50d84b79-2264-4e15-b23e-108cc78a53d2",
+    "name": "DUBBIWOOD_CONFIRM_CODE_EXPIRY_TIME",
+    "default_value_name": "DUBBIWOOD_CONFIRM_CODE_EXPIRY_TIME",
+    "code_name": "DwCETm",
+    "description": "DUBBIWOOD_CONFIRM_CODE_EXPIRY_TIME",
+    "value": "3",
+    "created_at": "2022-05-09T07:59:47.446Z",
+    "last_update": "2022-05-09T07:59:47.592Z",
+    "status": "1c307544-aa87-424f-9b3c-984100383aea"
+  }
+}
+]

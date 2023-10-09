@@ -1,0 +1,74 @@
+[
+{
+  "model": "err_notif_conf.notificationtype",
+  "pk": "09ce131c-469c-4896-afe0-c9b683ab696c",
+  "fields": {
+    "name": "PH-UTP Notification",
+    "code_name": "PhUTPNt",
+    "description": "notification will be sent from specific user to all PH users",
+    "status": "1c307544-aa87-424f-9b3c-984100383aea",
+    "created_at": "2022-05-09T07:59:47.446Z",
+    "last_update": "2022-05-09T07:59:47.592Z"
+  }
+},
+{
+  "model": "err_notif_conf.notificationtype",
+  "pk": "15a089e7-19cb-43ba-ae37-3d31b4682938",
+  "fields": {
+    "name": "I-P Notification Public",
+    "code_name": "InPNt",
+    "description": "notification will be sent to all industry users",
+    "status": "1c307544-aa87-424f-9b3c-984100383aea",
+    "created_at": "2022-05-09T07:59:47.446Z",
+    "last_update": "2022-05-09T07:59:47.592Z"
+  }
+},
+{
+  "model": "err_notif_conf.notificationtype",
+  "pk": "1cf4a1a3-4900-4d65-b7ef-4a6c96d2f835",
+  "fields": {
+    "name": "PH-P Notification",
+    "code_name": "PhPNt",
+    "description": "notification will be sent to all Pediahome users",
+    "status": "1c307544-aa87-424f-9b3c-984100383aea",
+    "created_at": "2022-05-09T07:59:47.446Z",
+    "last_update": "2022-05-09T07:59:47.592Z"
+  }
+},
+{
+  "model": "err_notif_conf.notificationtype",
+  "pk": "4024ddcb-81a2-4c06-8c76-f22e9bec5424",
+  "fields": {
+    "name": "PH-UTU Notification",
+    "code_name": "PhUTUNt",
+    "description": "notification will be sent from specific user to specific PH user, not necessarily in the same industry",
+    "status": "1c307544-aa87-424f-9b3c-984100383aea",
+    "created_at": "2022-05-09T07:59:47.446Z",
+    "last_update": "2022-05-09T07:59:47.592Z"
+  }
+},
+{
+  "model": "err_notif_conf.notificationtype",
+  "pk": "c43335f2-c6b7-49f9-9821-0cdb286d4141",
+  "fields": {
+    "name": "I-UTP Notification",
+    "code_name": "InUTPNt",
+    "description": "notification will be sent from specific user to all his industry users",
+    "status": "1c307544-aa87-424f-9b3c-984100383aea",
+    "created_at": "2022-05-09T07:59:47.446Z",
+    "last_update": "2022-05-09T07:59:47.592Z"
+  }
+},
+{
+  "model": "err_notif_conf.notificationtype",
+  "pk": "c7266512-eba6-4c4d-adeb-c1c247782155",
+  "fields": {
+    "name": "I_UTU Notification",
+    "code_name": "InUTUNt",
+    "description": "notification will be sent from specific user to specific user in the same industry",
+    "status": "1c307544-aa87-424f-9b3c-984100383aea",
+    "created_at": "2022-05-09T07:59:47.446Z",
+    "last_update": "2022-05-09T07:59:47.592Z"
+  }
+}
+]

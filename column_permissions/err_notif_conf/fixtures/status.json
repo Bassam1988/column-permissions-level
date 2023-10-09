@@ -1,0 +1,35 @@
+[
+{
+  "model": "err_notif_conf.status",
+  "pk": "05d52a29-445c-4386-a572-fbcc9a70c254",
+  "fields": {
+    "name": "Others",
+    "code_name": "",
+    "description": "",
+    "created_at": "2022-12-12T11:41:29.184Z",
+    "last_update": "2022-12-12T11:41:29.184Z"
+  }
+},
+{
+  "model": "err_notif_conf.status",
+  "pk": "1c307544-aa87-424f-9b3c-984100383aea",
+  "fields": {
+    "name": "Active",
+    "code_name": "At",
+    "description": "This object is active",
+    "created_at": "2022-05-09T07:59:47.446Z",
+    "last_update": "2022-05-09T07:59:47.592Z"
+  }
+},
+{
+  "model": "err_notif_conf.status",
+  "pk": "baa5b85a-62da-49d1-becb-1c1f9af8729f",
+  "fields": {
+    "name": "InActive",
+    "code_name": "InAt",
+    "description": "This object is inactive",
+    "created_at": "2022-05-09T07:59:47.446Z",
+    "last_update": "2022-05-09T07:59:47.592Z"
+  }
+}
+]
